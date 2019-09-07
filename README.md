@@ -1,6 +1,8 @@
 # HTML Snippets
 HTML Snippets mainly for IOS
 
+To Use the Reaper you must download the Functions and IOSDev.html file to initiate this
+
 Update 1 -
 	Pushing initial files to GIT
 	
