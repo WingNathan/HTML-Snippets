@@ -1,2 +1,5 @@
 # HTML Snippets
- Repo for my HTML Code snippets
+HTML Snippets mainly for IOS
+
+Update 1 -
+	Pushing initial files to GIT

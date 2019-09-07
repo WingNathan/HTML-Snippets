@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'DIRTYEGO'; /*a name to be used later*/
+    src: url('DIRTYEGO.TTF'); /*URL to font*/
+}
+
+
+
+CustomBlack {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+Marquee {
+font-family:DIRTYEGO;
+font-size:30px;
+line-height:60px;
+color:#8A2BE2;
+background-color:#000000;
+}
+
+iosdevtext {
+    font-family:DIRTYEGO;
+    font-size:30px;
+    line-height:60px;
+    color:#8A2BE2;
+}
+ioscrash{
+
+    font-size:0.3px;
+    line-height:11.4px;
+    color:blue
+
+
+
+}
+
+
+
+
